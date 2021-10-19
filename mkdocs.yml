@@ -1,0 +1,15 @@
+site_name: DJDP mock
+nav:
+  - Risk & Compliance Feeds:
+    - Overview: index.md
+    - REFERENCE Risk & Compliance Feeds Schemas: schemas.md
+    - REFERENCE Behind Login Reference:
+      - General Reference :
+        - Feeds' Delivery Schedules: feeds_delivery_bl.md
+        - Checksums: checksums_bl.md
+        - Document Retrieval: document_retrieval_bl.md
+        - CSV Help: csv_help_bl.md
+        - Acronyms: acronyms_bl.md
+        - Branding Guidelines:  branding_guidelines_bl.md
+theme:
+  name: material
