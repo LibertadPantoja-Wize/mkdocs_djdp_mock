@@ -1,7 +1,9 @@
 
-# Branding Guidelines for Customers, Partners and Distributors
+# Document Retrieval and Processing
 
-This document provides guidelines for the correct use of the Dow Jones identity when integrating any feed product into software applications.
+## Retrieval
+
+Dow Jones Feed Files can be retrieved via the Internet using HTTPS or SFTP.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum purus a commodo pellentesque. Nullam vehicula nisl leo, ut vulputate sem pharetra ac. Maecenas condimentum mauris in nisl placerat, vitae rutrum nisi fringilla. Nullam magna tellus, mattis quis nisl vel, venenatis consequat purus. Suspendisse tempus nulla eget est viverra, sed sodales elit facilisis. Ut sed vulputate mi. Maecenas nec semper lectus, eget scelerisque odio. Suspendisse potenti. Donec in leo ultrices, sodales enim vel, porttitor est. Etiam sit amet elit semper, sagittis quam a, hendrerit nulla. In in sem est. Fusce at urna sed quam scelerisque hendrerit faucibus non neque. Aliquam volutpat augue et massa dictum condimentum. Suspendisse ligula urna, molestie et laoreet vitae, elementum vitae lorem. Aliquam convallis augue a tellus blandit gravida sed eget sem. Sed fermentum egestas interdum.
 
